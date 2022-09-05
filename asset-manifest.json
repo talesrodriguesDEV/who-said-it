@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/who-said-it/static/css/main.e18ebc60.css",
+    "main.js": "/who-said-it/static/js/main.8032b1c5.js",
+    "static/js/787.70d79666.chunk.js": "/who-said-it/static/js/787.70d79666.chunk.js",
+    "index.html": "/who-said-it/index.html",
+    "main.e18ebc60.css.map": "/who-said-it/static/css/main.e18ebc60.css.map",
+    "main.8032b1c5.js.map": "/who-said-it/static/js/main.8032b1c5.js.map",
+    "787.70d79666.chunk.js.map": "/who-said-it/static/js/787.70d79666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18ebc60.css",
+    "static/js/main.8032b1c5.js"
+  ]
+}
